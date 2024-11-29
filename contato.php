@@ -1,3 +1,7 @@
+<!-- Desenvolvido por: Marcio Tascheck -->
+<!-- Data Dev: 25/11/2024 -->
+<!-- E-mail: marciotascheck8@gmail.com -->
+
 <?php
 // Configuração do banco de dados
 $servername = "localhost"; // Endereço do servidor (ou "127.0.0.1")
