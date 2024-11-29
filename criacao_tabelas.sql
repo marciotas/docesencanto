@@ -1,3 +1,8 @@
+<!-- Criado por: Marcio Tascheck -->
+<!-- Data de Criação: 25/11/2024 -->
+<!-- E-mail: marciotascheck8@gmail.com -->
+
+
 CREATE TABLE reservas (
     id INT AUTO_INCREMENT PRIMARY KEY,
     nome VARCHAR(100) NOT NULL,
